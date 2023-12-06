@@ -1,0 +1,31 @@
+*{
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+
+#container{
+  width: 100vw;
+  height: 100vh;
+  padding-top: 38%;
+  padding-left: 10%;
+}
+
+#full-btn{
+  background-color: white;
+  width: 80vw;
+  padding: 10px;
+  border-radius: 10px;
+  
+  
+}
+
+#full-btn button {
+  border-radius: 18px;
+  outline: none;
+  justify-content: center;
+  box-shadow: 0px 0px 1px 1px grey;
+  margin-left: 25px;
+ 
+}
+
